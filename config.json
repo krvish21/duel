@@ -1,0 +1,23 @@
+{
+    "port": 8080,
+        "minPlayers": 2,
+            "countdownSeconds": 3,
+                "nextGameDelay": 5000,
+                    "sentences": [
+                        "The quick brown fox jumps over the lazy dog near the riverbank.",
+                        "Programming is the art of telling another human what one wants the computer to do.",
+                        "Life is what happens when you're busy making other plans for the future.",
+                        "Success is not final, failure is not fatal, it is the courage to continue that counts.",
+                        "The only way to do great work is to love what you do every single day.",
+                        "Innovation distinguishes between a leader and a follower in any field.",
+                        "The future belongs to those who believe in the beauty of their dreams.",
+                        "Code is like humor, when you have to explain it, it's bad practice.",
+                        "Simplicity is the soul of efficiency in programming and in life itself.",
+                        "Practice isn't the thing you do once you're good, it's what makes you good.",
+                        "Technology is best when it brings people together across the digital divide.",
+                        "Every expert was once a beginner who never gave up on their dreams.",
+                        "The journey of a thousand miles begins with a single step forward.",
+                        "Quality is not an act, it is a habit we develop through consistent practice.",
+                        "Debugging is twice as hard as writing the code in the first place."
+                    ]
+}

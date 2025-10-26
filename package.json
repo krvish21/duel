@@ -1,0 +1,21 @@
+{
+  "name": "typing-race-game",
+  "version": "1.0.0",
+  "description": "Multiplayer typing race CLI game",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "keywords": [
+    "typing",
+    "game",
+    "multiplayer",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
